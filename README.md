@@ -8,5 +8,5 @@ Majority of trait/disease associated variants identified by genome wide associat
 
 # Installing cepip
 
-We have integrated our JAVA version cepip into KGGSeq package (http://grass.cgs.hku.hk/limx/kggseq/doc10/UserManual.html#ContexSpcific), now it supports whole genome scoring in an efficient manner (require mannually download dbNCFP wohle genome annotation file). Please refer to the manual for package configuration and running parameters (--regulatory-causing-predict and --cell). 
+We have integrated our JAVA version cepip into KGGSeq package (http://pmglab.top/kggseq/doc10/UserManual.html#ContexSpcific), now it supports whole genome scoring in an efficient manner (require mannually download dbNCFP wohle genome annotation file). Please refer to the manual for package configuration and running parameters (--regulatory-causing-predict and --cell). 
 Old infomation about installation, usage and updates, please visit: http://mulinlab.org/cepip
